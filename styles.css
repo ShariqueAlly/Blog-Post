@@ -1,0 +1,10 @@
+
+#typography{
+ text-align: center;
+}
+.container{
+    text-align: start;
+    width: 30%;
+    margin: auto;
+    color: grey;
+}
